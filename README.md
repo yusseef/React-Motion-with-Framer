@@ -4,4 +4,4 @@
 * npm install
 * npm start
 ### Netlify url 
-[Open to live preview!](https://60dc89e6a344d30008e1a429--confident-noyce-f32ecc.netlify.app/)
+[Open to live preview!](https://60dc8fef809a1d41a170b9c7--sleepy-edison-26dfe8.netlify.app/)
